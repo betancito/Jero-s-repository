@@ -1,0 +1,47 @@
+body{
+    background-color: #6A8D73;
+}
+h1 {
+    background-color: #F4FDD9;
+    color: black;
+    font-style: italic;
+    
+}    
+
+h3{
+    color: black;
+}
+
+h4{
+    color: #693b1f;
+}
+
+p {
+    color: #693b1f;
+    font-style: oblique;
+}
+
+
+table{
+    border: #EAC5D8;
+    background-color: #E4FFE1;
+    color: #693b1f;
+}
+
+fieldset{
+    background-color: #FFE8C2;
+}
+
+legend{
+    background-color: #232F26;
+    color: white;
+}
+
+textarea{
+    background-color: #F4FDD9;
+}
+
+input{
+    background-color: #DF7416 ;
+    color: #F9DFC7;
+}
